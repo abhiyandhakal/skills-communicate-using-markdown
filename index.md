@@ -9,3 +9,7 @@ fn main() {
   println!("Hello, World!");
 }
 ```
+
+- [x] Completed task
+- [ ] To do a task
+- [ ] To do another task
